@@ -1,5 +1,3 @@
-Thanks for the detailed revision! Here’s the updated architecture and flow with your adjustments integrated:
-
 
 ---
 
@@ -21,8 +19,6 @@ Agora SDK integrated directly into the frontend for video/audio calls.
 2. Backend
 
 Framework: Laravel
-
-Laravel will now handle:
 
 User authentication and profile management.
 
