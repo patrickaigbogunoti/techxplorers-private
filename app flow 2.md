@@ -64,14 +64,7 @@ Use the guide below:
 
 connection string: 
 
-postgresql://txplrdb_owner:npg_OaA0rNd4YgyW@ep-yellow-resonance-a9ip7t2n-pooler.gwc.azure.neon.tech/txplrdb?sslmode=require
 
- .env for laravel db:
-
-PGHOST='ep-yellow-resonance-a9ip7t2n-pooler.gwc.azure.neon.tech'
-PGDATABASE='txplrdb'
-PGUSER='txplrdb_owner'
-PGPASSWORD='npg_OaA0rNd4YgyW'
 
 or
 
