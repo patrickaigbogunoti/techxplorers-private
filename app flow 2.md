@@ -241,6 +241,10 @@ Database
 
 PostgreSQL: Unified database for structured data.
 
+Storage
+
+Cloudinary: store images and cdn
+
 
 
 ---
