@@ -48,7 +48,8 @@ Drives:
 
 AI chatbot for maternal queries using an ollama model or an llm api
 
-Symptom checker and personalized pregnancy insights using various python libraries
+Analytic Engine:
+This contains the Symptom checker and personalized pregnancy insights using various python libraries
 
 
 Python-based API exposes functionality to Next.js for seamless integration.
@@ -239,6 +240,10 @@ Python: AI services (chatbot, symptom checker, and insights).
 Database
 
 PostgreSQL: Unified database for structured data.
+
+Storage
+
+Cloudinary: store images and cdn
 
 
 
